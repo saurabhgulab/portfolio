@@ -25,6 +25,7 @@ import freecodecamp from "./company/freecodecamp.jpeg";
 import cognizant from "./company/cognizant.jpeg";
 import javarnd from "./company/javarnd.jpeg";
 import vetic from "./company/vetic.jpeg";
+import trellingfood from "./company/trellingfood.png";
 
 import sanofi from "./sanofi.png";
 import hyvee from "./hyvee.png";
@@ -56,6 +57,7 @@ export {
   cognizant,
   javarnd,
   vetic,
+  trellingfood,
   sanofi,
   hyvee,
   bloomberg,

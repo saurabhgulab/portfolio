@@ -17,6 +17,7 @@ import {
   docker,
   vetic,
   javarnd,
+  trellingfood,
   cognizant,
   freecodecamp,
   sanofi,
@@ -46,7 +47,7 @@ const services = [
     icon: web,
   },
   {
-    title: "Entrepreneur",
+    title: "Frontend Developer",
     icon: mobile,
   },
   {
@@ -116,6 +117,20 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Business & Information Technology Consultant",
+    company_name:
+      "Trellingfood, Trellingfashion, Trellingmemories & Trelliswelfare",
+    icon: trellingfood,
+    iconBg: "#000000",
+    date: "Feb’2023 – Present",
+    points: [
+      "With more than 5 years 6 months of experience in Information technology, Software analysis, design, development, implementation & testing of multiple applications.",
+      "I provide appropriate Roadmap as per the requirements defined by the Client.",
+      "As a Business Consultant, I analyse and address Complex Technical/Non-Technical Challenges to provide innovative solutions to the customers.",
+      "was overwhelmed to present my door open for the clients looking for enhancements as well as deliverables related to Software Development, Web-Design, Business Strategy, Digital Marketing and more.",
+    ],
+  },
+  {
     title: "SDE-II Frontend Developer",
     company_name: "Vetic - Pet Care Reimagined | Petpai Technologies Pvt Ltd",
     icon: vetic,
@@ -134,7 +149,7 @@ const experiences = [
     title: "Sr. Software Developer",
     company_name: "Java Ventures Pvt Ltd",
     icon: javarnd,
-    iconBg: "#E6DEDD",
+    iconBg: "#ffffff",
     date: "Nov’2021- Apr’2022",
     points: [
       "Worked as a Full Stack Developer for multiple US Clients. Following SDLC approach on projects by utilising Front-End (Html, Css & React) as well as Back-End (Nodejs, MongoDb, Postman) technologies.",
@@ -147,9 +162,9 @@ const experiences = [
   },
   {
     title: "Web Developer",
-    company_name: "Cognizant",
+    company_name: "Cognizant Technologies Solutions Pvt Ltd",
     icon: cognizant,
-    iconBg: "#383E56",
+    iconBg: "#ffffff",
     date: "May'2019 – Oct'2021",
     points: [
       "Was part of Cognizant Digital Business Developers Team working on creating Business Intelligence Solutions.",
